@@ -76,10 +76,11 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rjtpp&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=16&order=3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rjtpp&locale=en&mode=daily&theme=defalut&hide_border=false&border_radius=16&order=3" />
-    <img src="https://streak-stats.demolab.com?user=rjtpp&locale=en&mode=daily&theme=defalut&hide_border=false&border_radius=16&order=3" height="150" alt="streak graph"  />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rjtpp&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=16&order=3card_width=440" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rjtpp&locale=en&mode=daily&theme=defalut&hide_border=false&border_radius=16&order=3card_width=440" />
+    <img src="https://streak-stats.demolab.com?user=rjtpp&locale=en&mode=daily&theme=defalut&hide_border=false&border_radius=16&order=3card_width=440" height="150" alt="streak graph"  />
   </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rjtpp&locale=en&hide_title=false&layout=compact&card_width=415&border_radius=16&langs_count=5&theme=react&hide_border=false&order=2&card_width=415" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rjtpp&locale=en&hide_title=false&layout=compact&card_width=415&border_radius=16&langs_count=5&theme=default&hide_border=false&title_color=000000&order=2&card_width=415" />
