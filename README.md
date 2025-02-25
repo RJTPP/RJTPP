@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjtpp&label=Profile%20views&color=0e75b6&style=flat" alt="rjtpp" /> </p>
 
-- 🎓 Computer Engineering student at <a href="https://www.ku.ac.th" target="_blank">Kasetsart University</a>
+- 🎓 Computer Engineering student at <a href="https://www.ku.ac.th/en/community-home" target="_blank">Kasetsart University</a>
 - 🧑‍💻 Researcher at <a href="https://www.facebook.com/p/Mikelabnet-100027869269142" target="_blank">MikeLab</a>
 - 📚 Currently learning AI & Machine Learning
 
