@@ -76,8 +76,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RJTPP&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=16&order=3card_width=440&background=161b22" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=RJTPP&locale=en&mode=daily&theme=defalut&hide_border=false&border_radius=16&order=3card_width=440" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RJTPP&locale=en&mode=daily&theme=dracula&border_radius=16&order=3&card_width=440&background=161b22" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=RJTPP&locale=en&mode=daily&theme=defalut&border_radius=16&order=3&card_width=440" />
     <img src="https://streak-stats.demolab.com?user=RJTPP&locale=en&mode=daily&theme=defalut&hide_border=false&border_radius=16&order=3card_width=440" height="150" alt="streak graph"  />
   </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
